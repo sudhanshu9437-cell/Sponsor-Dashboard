@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Razorpay",
+        "tier": "Platinum",
+        "branch": "Fintech",
+        "contribution": "500000"
+    },
+    {
+        "id": 2,
+        "name": "Zerodha",
+        "tier": "Platinum",
+        "branch": "Finance",
+        "contribution": "450000"
+    },
+    {
+        "id": 3,
+        "name": "CRED",
+        "tier": "Platinum",
+        "branch": "Fintech",
+        "contribution": "250000"
+    },
+    {
+        "id": 4,
+        "name": "Postman",
+        "tier": "Gold",
+        "branch": "Dev Tools",
+        "contribution": "200000"
+    },
+    {
+        "id": 5,
+        "name": "Meesho",
+        "tier": "Gold",
+        "branch": "E-commerce",
+        "contribution": "180000"    
+    },
+    {
+        "id": 6,
+        "name": "Groww",
+        "tier": "Gold",
+        "branch": "Wealth Tech",
+        "contribution": "100000"
+    },
+    {
+        "id": 7,
+        "name": "BrowserStack",
+        "tier": "Gold",
+        "branch": "QA Tools",
+        "contribution": "190000"
+    },
+    {
+        "id": 8,
+        "name": "Unacademy",
+        "tier": "Silver",
+        "branch": "EdTech",
+        "contribution": "90000"
+    },
+    {
+        "id": 9,
+        "name": "Ola Electric",
+        "tier": "Silver",
+        "branch": "EV/Mobility",
+        "contribution": "80000"
+    },
+    {
+        "id": 10,
+        "name": "Framer",
+        "tier": "Silver",
+        "branch": "Design",
+        "contribution": "75000"
+    },
+    {
+        "id": 11,
+        "name": "Notion",
+        "tier": "In-Kind",
+        "branch": "Productivity",
+        "contribution": 0
+    },
+    {
+        "id": 12,
+        "name": "Replit",
+        "tier": "In-Kind",
+        "branch": "Dev Tools",
+        "contribution": 0
+    },
+    {
+        "id": 13,
+        "name": "Lenskart",
+        "tier": "Gold",
+        "branch": "D2C Retail",
+        "contribution": "160000" 
+    },
+    {
+        "id": 14,
+        "name": "upGrad",
+        "tier": "Silver",
+        "branch": "EdTech",
+        "contribution": "70000"
+    },
+    {
+        "id": 15,
+        "name": "PhonePe",
+        "tier": "Platinum",
+        "branch": "Payments",
+        "contribution": "480000"
+    }
+]
